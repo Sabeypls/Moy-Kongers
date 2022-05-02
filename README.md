@@ -8,7 +8,7 @@ Just something to program
 
 Formatting, so I can c/p the rest of the menu. I've gone through a bit of changes with how I want it to look.
 
-Removal of items (The function is there) but not implemented.
+Removal of items (The function is there but not implemented).
 
 # Future
 
